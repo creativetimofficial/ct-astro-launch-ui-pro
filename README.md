@@ -1,15 +1,15 @@
-# Welcome to [AstroLaunch UI Pro](https://www.creative-tim.com/astro/launch-ui-pro)
+# Welcome to [AstroLaunch UI Pro](https://www.creative-tim.com/astro/launch-ui-pro/)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-astro-launch-ui-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-astro-launch-ui-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-astro-launch-ui-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-astro-launch-ui-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-astro-launch-ui-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-astro-launch-ui-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-astro-launch-ui-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-astro-launch-ui-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![basics](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/astro/astrolaunch-ui.jpg)
 
 ## Description
 
-Introducing **AstroLaunch UI Pro**, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, AstroLaunch UI Pro offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
+Introducing **AstroLaunch UI Pro**, the ultimate starter template for your startup web project. Built on Astro's next-gen island architecture, AstroLaunch UI Pro offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
 
 **Main Features**
-Build your e-commerce website quickly and efficiently with:
+Build your startuo website quickly and efficiently with:
 - 70+ fully coded elements
 - 15 fully coded example pages
 - 30+ blocks
